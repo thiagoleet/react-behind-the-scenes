@@ -2,6 +2,21 @@
 
 Undestanding what's going on behind the scenes in React
 
+## Quick start
+
+Using NPM
+
+``` npm install ```
+
+``` npm start ```
+
+
+Using Yarn
+
+``` yarn install ```
+
+``` yarn start ```
+
 ---
 
 ![Thiago - Capa](https://user-images.githubusercontent.com/9437391/153274659-915c4df9-0032-4757-a9a2-6a85107c276b.png)
